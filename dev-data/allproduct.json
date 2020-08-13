@@ -1,0 +1,132 @@
+[
+	{
+		"_id":"1",
+		"title":"Red Printed T-Shirt",
+		"category":"T-Shirt",
+		"url":"../../../images/product-1.jpg",
+		"price":250.00,
+		"rating":"4.5",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":0
+	},
+	{
+		"_id":"2",
+		"title":"Black Shoes",
+		"category":"Shoes",
+		"url":"../../../images/product-2.jpg",
+		"price":700.00,
+		"rating":"4.2",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active Shoes. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":6
+	},
+	{
+		"_id":"3",
+		"title":"Gray Lower",
+		"category":"Pants",
+	    "url":"../../../images/product-3.jpg",
+		"price":500.00,
+		"rating":"4.0",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active Lower. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":6
+	},
+	{
+		"_id":"4",
+		"title":"Blue Collar T-Shirt",
+		"category":"T-Shirt",
+		"url":"../../../images/product-4.jpg",
+		"price":300.00,
+		"rating":"4.3",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":5
+	},
+	{
+		"_id":"5",
+		"title":"Gray Shoes",
+		"category":"Shoes",
+		"url":"../../../images/product-5.jpg",
+		"price":2000.00,
+		"rating":"4.3",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active Shoes. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":3
+	},
+	{
+		"_id":"6",
+		"title":"Black T-Shirt",
+		"category":"T-Shirt",
+		"url":"../../../images/product-6.jpg",
+		"price":1000.00,
+		"rating":"4.3",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":"6"
+	},
+	{
+		"_id":"7",
+		"title":"Socks",
+		"category":"Socks",
+		"url":"../../../images/product-7.jpg",
+		"price":500.00,
+		"rating":"3.5",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active Socks. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":4
+	},
+	{
+		"_id":"8",
+		"title":"Black Wrist Watch",
+		"category":"Wrist Watch",
+		"url":"../../../images/product-8.jpg",
+		"price":3000.00,
+		"rating":"4.5",
+		"description":"Give your wrist a style upgrade with the HRX Men's Active Watch. Team it with a pair of bands for your workout or a denims for an evening out with the guys.",
+		"count":1
+	},
+	{
+		"_id":"9",
+		"title":"Black Wrist Watch",
+		"category":"Wrist Watch",
+		"url":"../../../images/product-9.jpg",
+		"price":2500.00,
+		"rating":"4.1",
+		"description":"Give your wrist a style upgrade with the HRX Men's Active Watch. Team it with a pair of bands for your workout or a denims for an evening out with the guys.",
+		"count":2
+	},
+	{
+		"_id":"10",
+		"title":"Black Shoes",
+		"category":"Shoes",
+		"url":"../../../images/product-10.jpg",
+		"price":5000.00,
+		"rating":"4.6",
+		"description":"Give your legs a style upgrade with the HRX Men's Active Shoes. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":4
+	},
+	{
+		"_id":"11",
+		"title":"Gray Loafer",
+		"category":"Slipper",
+		"url":"../../../images/product-11.jpg",
+		"price":1500.00,
+		"rating":"3.8",
+		"description":"Give your legs a style upgrade with the HRX Men's Active Loafer. Team it with a pair of shorts for your morning workout or a denims for an evening out with the guys.",
+		"count":8
+	},
+	{
+		"_id":"12",
+		"title":"Black Lower",
+		"category":"Pants",
+		"url":"../../../images/product-12.jpg",
+		"price":800.00,
+		"rating":"4.2",
+		"description":"Give your summer wardrobe a style upgrade with the HRX Men's Active Lower. Team it with a pair of shoes for your morning workout or a denims for an evening out with the guys.",
+		"count":9
+	},
+	{
+		"_id":"offer1",
+		"title":"Smart Band",
+		"category":"Wrist Watch",
+		"url":"../../../images/exclusive.png",
+		"price":3000.00,
+		"rating":"4.8",
+		"description":"The Mi Smart Band 4 features a 39.95 larger (than Mi Band 3) AMOLED color full-touch display with adjustable brightness, so everything is clear as can be.",
+		"count":4
+	}
+]

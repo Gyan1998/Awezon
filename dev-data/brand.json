@@ -1,0 +1,22 @@
+[
+	{
+		"_id":"1",
+		"url":"../../../images/logo-godrej.png"
+	},
+	{
+		"_id":"2",
+		"url":"../../../images/logo-oppo.png"
+	},
+	{
+		"_id":"3",
+		"url":"../../../images/logo-coca-cola.png"
+	},
+	{
+		"_id":"4",
+		"url":"../../../images/logo-paypal.png"
+	},
+	{
+		"_id":"5",
+		"url":"../../../images/logo-philips.png"
+	}
+]

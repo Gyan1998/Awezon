@@ -1,0 +1,20 @@
+[
+	{
+		"description":"Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
+		"url":"../../../images/user-1.png",
+		"name":"Sam Reni",
+		"rating":4.5
+	},
+	{
+		"description":"Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
+		"url":"../../../images/user-2.png",
+		"name":"Rahul Gupta",
+		"rating":3.8
+	},
+	{
+		"description":"Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text",
+		"url":"../../../images/user-3.png",
+		"name":"Priya Kumari",
+		"rating":4.2
+	}
+]

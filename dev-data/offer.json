@@ -1,0 +1,12 @@
+[
+	{
+		"_id":"offer1",
+		"title":"Smart Band",
+		"category":"Wrist Watch",
+		"url":"../../../images/exclusive.png",
+		"price":"Rs 3000",
+		"rating":"4.8",
+		"description":"The Mi Smart Band 4 features a 39.95 larger (than Mi Band 3) AMOLED color full-touch display with adjustable brightness, so everything is clear as can be.",
+		"count":"6"
+	}
+]
