@@ -1,0 +1,26 @@
+[
+	{
+		"_id":"1",
+		"title":"Red Printed T-Shirt",
+		"url":"http://localhost:3000/static/media/product-1.8622e8b5.jpg",
+		"price":"Rs 250.00"
+	},
+	{
+		"_id":"2",
+		"title":"Black Shoes",
+		"url":"http://localhost:3000/static/media/product-2.b05d17db.jpg",
+		"price":"Rs 700.00"
+	},
+	{
+		"_id":"3",
+		"title":"Gray Lower",
+		"url":"http://localhost:3000/static/media/product-3.58a101d5.jpg",
+		"price":"Rs 500.00"
+	},
+	{
+		"_id":"4",
+		"title":"Blue Collar T-Shirt",
+		"url":"http://localhost:3000/static/media/product-4.8dea815e.jpg",
+		"price":"Rs 300.00"
+	}
+]

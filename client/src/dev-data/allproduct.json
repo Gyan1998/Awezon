@@ -1,0 +1,80 @@
+[
+	{
+		"_id":"1",
+		"title":"Red Printed T-Shirt",
+		"url":"http://localhost:3000/static/media/product-1.8622e8b5.jpg",
+		"price":"Rs 250.00"
+	},
+	{
+		"_id":"2",
+		"title":"Black Shoes",
+		"url":"http://localhost:3000/static/media/product-2.b05d17db.jpg",
+		"price":"Rs 700.00"
+	},
+	{
+		"_id":"3",
+		"title":"Gray Lower",
+		"url":"http://localhost:3000/static/media/product-3.58a101d5.jpg",
+		"price":"Rs 500.00"
+	},
+	{
+		"_id":"4",
+		"title":"Blue Collar T-Shirt",
+		"url":"http://localhost:3000/static/media/product-4.8dea815e.jpg",
+		"price":"Rs 300.00"
+	},
+	{
+		"_id":"5",
+		"title":"Gray Shoes",
+		"url":"http://localhost:3000/static/media/product-5.0511d63b.jpg",
+		"price":"Rs 2000.00"
+	},
+	{
+		"_id":"6",
+		"title":"Black T-Shirt",
+		"url":"http://localhost:3000/static/media/product-6.b2bae9ec.jpg",
+		"price":"Rs 1000.00"
+	},
+	{
+		"_id":"7",
+		"title":"Socks",
+		"url":"http://localhost:3000/static/media/product-7.4dfc84cc.jpg",
+		"price":"Rs 500.00"
+	},
+	{
+		"_id":"8",
+		"title":"Black Wrist Watch",
+		"url":"http://localhost:3000/static/media/product-8.714fd6a7.jpg",
+		"price":"Rs 3000.00"
+	},
+	{
+		"_id":"9",
+		"title":"Black Wrist Watch",
+		"url":"http://localhost:3000/static/media/product-9.4ae712e1.jpg",
+		"price":"Rs 2500.00"
+	},
+	{
+		"_id":"10",
+		"title":"Black Shoes",
+		"url":"http://localhost:3000/static/media/product-10.2f8437da.jpg",
+		"price":"Rs 5000.00"
+	},
+	{
+		"_id":"11",
+		"title":"Gray Loafer",
+		"url":"http://localhost:3000/static/media/product-11.b3458bc0.jpg",
+		"price":"Rs 1500.00"
+	},
+	{
+		"_id":"12",
+		"title":"Black Lower",
+		"url":"http://localhost:3000/static/media/product-12.64dc2a54.jpg",
+		"price":"Rs 800.00"
+	},
+	{
+		"_id":"offer1",
+		"url":"http://localhost:3000/static/media/exclusive.9f0b9e83.png",
+		"title":"Smart Band",
+		"description":"The Mi Smart Band 4 features a 39.95 larger (than Mi Band 3) AMOLED color full-touch display with adjustable brightness, so everything is clear as can be."
+	}
+]
