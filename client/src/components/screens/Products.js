@@ -13,7 +13,7 @@ const Products=()=>{
     const dispatch=useDispatch();
 
     useEffect(()=>{
-    	dispatch(listAllProducts());
+    	//dispatch(listAllProducts());
     	return ()=>{
     	};
     },[])
@@ -31,7 +31,38 @@ const Products=()=>{
 						<option>Short by sale</option>
                 	</select>
 				</div>
-				
+				{loading?<div>loading...</div>:
+		        error?<div>{error}</div>:
+				<div className="row1">
+				{products.map(ap=>(
+					<div className="col-4">
+						<a href={'/productdetails/'+ap._id}><img src={ap.url} alt="" /></a>
+						<h6>{ap.title}</h6>
+						<div className="rating">
+						    {[...Array(Math.floor(ap.rating)).keys()].map(x=>
+							<i className="material-icons" style={{color:"#ff523b"}}>star</i>
+							)}
+							{[...Array(Math.ceil(ap.rating)-Math.floor(ap.rating)).keys()].map(x=>
+							<i className="material-icons" style={{color:"#ff523b"}}>star_half</i>
+							)}
+							{[...Array(5-Math.ceil(ap.rating)).keys()].map(x=>
+							<i className="material-icons" style={{color:"#ff523b"}}>star_border</i>
+							)}
+						</div>
+						<p>Rating: {ap.rating}</p>
+						<p>Rs {ap.price}</p>
+					</div>
+					))}
+				</div>
+				}
+
+	<div className="page-btn">
+		<span>1</span>
+		<span>2</span>
+		<span>3</span>
+		<span>4</span>
+		<span>&#8594;</span>
+	</div>
 </div>
 		);
 }
