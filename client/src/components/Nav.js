@@ -43,7 +43,7 @@ const Nav=()=>{
 		      <a href="/cart" className="sidenav-trigger" style={{float:"right",display:"flex"}}><span><i className="material-icons" style={{color:"green"}}>add_shopping_cart</i></span><span style={{color:"maroon"}}>{cartItems.length===0?'':cartItems.length}</span></a>
 		      <ul className="right hide-on-med-and-down">
 			        <li><a href="/">Home</a></li>
-			        <li><a href="/allproducts">Products</a></li>
+			        <li><a href="/all_products">Products</a></li>
 			        {userInfo ? 
 			        <li><Link onClick={()=>clearUser()} to="/">Logout</Link></li>:
 			    	<li></li>}
@@ -56,7 +56,7 @@ const Nav=()=>{
 
 		  <ul className="sidenav" id="mobile-demo" style={{background:"#ffd6d6"}}>
 	            <li><a href="/">Home</a></li>
-		        <li><a href="/allproducts">Products</a></li>
+		        <li><a href="/all_products">Products</a></li>
 		        {userInfo ? 
 		        <li><Link onClick={()=>clearUser()} to="/">Logout</Link></li>:<li></li>}
 		        {userInfo?<li><a href="/" className="aa">{userInfo.user.name}</a></li>:

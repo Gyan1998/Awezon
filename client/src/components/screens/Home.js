@@ -89,7 +89,17 @@ const Home=()=>{
 
     {/*-----------------CATEGORIES----------------*/}
 
-		
+		<div className="categories">
+		<div className="small-container">
+		  <div className="row1">
+		  {cg.map(cg=>(
+		  	<div className="col-3">
+		      <img src={cg.url} alt="" />
+		    </div>
+		  	))}
+		  </div>
+		</div>
+		</div>
 
 
     {/*-----------------FEATURED PRODUCTS----------------*/}

@@ -13,7 +13,7 @@ const Products=()=>{
     const dispatch=useDispatch();
 
     useEffect(()=>{
-    	//dispatch(listAllProducts());
+    	dispatch(listAllProducts());
     	return ()=>{
     	};
     },[])
