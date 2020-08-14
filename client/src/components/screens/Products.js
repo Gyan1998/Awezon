@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from 'react';
+ import React,{useState,useEffect} from 'react';
 import '../../App.css';
 import {Link} from 'react-router-dom';
 import M from 'materialize-css';
@@ -18,15 +18,7 @@ const Products=()=>{
     	};
     },[])
 
-	document.addEventListener('DOMContentLoaded', function() {
-		let options=null;
-	    var elems = document.querySelectorAll('select');
-	    var instances = M.FormSelect.init(elems, options);
-    });
 	return (
-
-		loading?<div>loading...</div>:
-		error?<div>{error}</div>:
 
 			<div className="small-container">
 				<div className="row1 row-2">
@@ -39,6 +31,8 @@ const Products=()=>{
 						<option>Short by sale</option>
                 	</select>
 				</div>
+				{loading?<div>loading...</div>:
+		        error?<div>{error}</div>:
 				<div className="row1">
 				{products.map(ap=>(
 					<div className="col-4">
@@ -60,6 +54,7 @@ const Products=()=>{
 					</div>
 					))}
 				</div>
+				}
 
 	<div className="page-btn">
 		<span>1</span>
